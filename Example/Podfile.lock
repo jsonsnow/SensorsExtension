@@ -1,0 +1,16 @@
+PODS:
+  - SensorsExtension (0.1.0)
+
+DEPENDENCIES:
+  - SensorsExtension (from `../`)
+
+EXTERNAL SOURCES:
+  SensorsExtension:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SensorsExtension: e5c88b0aeb1a5c553a3d9d119869b4ab08488def
+
+PODFILE CHECKSUM: da65bd8ecb5641f63fc98e4c72a7a391b3523a25
+
+COCOAPODS: 1.9.3
