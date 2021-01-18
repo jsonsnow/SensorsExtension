@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'SensorsExtension_Example' do
+  pod 'SensorsExtension', :path => '../'
+
+  target 'SensorsExtension_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
